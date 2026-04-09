@@ -1,36 +1,33 @@
 # Bem-vindo ao meu espaço pessoal!
 
-Professor de Física apaixonado por astronomia, astrofotografia e desenvolvimento de ferramentas para o ensino de ciências.
+Professor de Física apaixonado por astronomia e fotografia.
 
 ---
 
 ## 👨‍🏫 Perfil Acadêmico
-- **Nome:** Caio
-- **Cargo:** Professor de Física
-- **Lattes:** [http://lattes.cnpq.br/6646088186682836]
-- **Contato:** [caio.fabio@professor.ufcg.edu.br]
+- **Nome:** Caio F. T. Correia
+- **Cargo:** Professor de Física na UFCG, Campus Cajazeiras
+- **Lattes:** http://lattes.cnpq.br/6646088186682836
+- **Contato:** caio.fabio@professor.ufcg.edu.br
+
+---
+
+## 📸 Projetos Acadêmicos
+- **Extensão:**
+  - Sertão Astronômico (2025)
+  - Radiotelescópio BINGO (2026)
 
 ---
 
 ## 📸 Astrofotografia
 Nesta seção, compartilho registros astronômicos, muitos processados no PixInsight e capturados com equipamentos específicos:
-- [Minhas Astrofotografias](./fotos/README.md) *(Link interno para pasta de fotos)*
-- [Fotografia de Nuvens](./fotos/nuvens.md)
+- [Portifolio](https://www.behance.net/caiocorreia1) 
 
 ---
 
 ## 💻 Física & Programação
 Repositórios e materiais públicos voltados para a comunidade de física e alunos:
-- **Notas de Aula em LaTeX:** Materiais de Mecânica Clássica, Física Moderna e Mecânica Geral.
 - **Simulações em Python:** Scripts utilizando `matplotlib` e `HoloViews` para visualização de dados físicos.
-- **Ambientes de Desenvolvimento:** Configurações de Docker e WSL2 para fluxos de trabalho em LaTeX.
-
+- pipeline para edição de astrofotografia
 ---
 
-## 🚀 Projetos Atuais
-- Unificação de notas de aula em estilo livro (PDF).
-- Desenvolvimento de curso de Mecânica Clássica II.
-- Exploração de ferramentas de gestão de projetos como Obsidian.
-
----
-*Este site é atualizado via GitHub Pages.*
