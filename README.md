@@ -22,17 +22,18 @@ Repositórios e materiais públicos voltados para a comunidade de física e alun
 
 ---
 
-Geogebra:
-Geometria Analítica:
-1.1 - Igualdade de vetores: https://www.geogebra.org/m/cajqdnps
-1.2 - Soma de Vetores: https://www.geogebra.org/m/agssrxdm
-1.3 - Multiplicação por escalar: https://www.geogebra.org/m/gfdyvyms
-1.4 - Vetores no plano: https://www.geogebra.org/m/nr5spbpy
-1.5 - 1.5 Vetor definido por dois pontos: https://www.geogebra.org/m/kzvpjjtu
-1.6 - Norma de um vetor: https://www.geogebra.org/m/gqqrtugr
-1.7 - Ponto médio: https://www.geogebra.org/m/ppsjdku2
-1.8 - Ângulo de dois vetores: https://www.geogebra.org/m/ajbwddfc
+## Materiais no Geogebra
 
+### Geometria Analítica
+
+* **1.1 - Igualdade de vetores:** [Acessar Geogebra](https://www.geogebra.org/m/cajqdnps)
+* **1.2 - Soma de Vetores:** [Acessar Geogebra](https://www.geogebra.org/m/agssrxdm)
+* **1.3 - Multiplicação por escalar:** [Acessar Geogebra](https://www.geogebra.org/m/gfdyvyms)
+* **1.4 - Vetores no plano:** [Acessar Geogebra](https://www.geogebra.org/m/nr5spbpy)
+* **1.5 - Vetor definido por dois pontos:** [Acessar Geogebra](https://www.geogebra.org/m/kzvpjjtu)
+* **1.6 - Norma de um vetor:** [Acessar Geogebra](https://www.geogebra.org/m/gqqrtugr)
+* **1.7 - Ponto médio:** [Acessar Geogebra](https://www.geogebra.org/m/ppsjdku2)
+* **1.8 - Ângulo de dois vetores:** [Acessar Geogebra](https://www.geogebra.org/m/ajbwddfc)
 
 
 ---
