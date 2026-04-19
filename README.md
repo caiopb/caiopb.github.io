@@ -53,6 +53,7 @@ Repositórios e materiais públicos voltados para a comunidade de física e alun
 * [Movimento Balístico](https://www.geogebra.org/m/h7eghcw3)
 * [Gráficos: Queda Livre com resistência do ar](https://www.geogebra.org/m/yde9de5v)
 * [Distribuição de velocidades de Maxwell](https://www.geogebra.org/m/pwyphnwd)
+
 ---
 
 ## 📸 Astrofotografia
