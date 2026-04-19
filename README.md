@@ -35,6 +35,24 @@ Repositórios e materiais públicos voltados para a comunidade de física e alun
 * [1.7 - Ponto médio](https://www.geogebra.org/m/ppsjdku2)
 * [1.8 - Ângulo de dois vetores](https://www.geogebra.org/m/ajbwddfc)
 
+### Eletromagnetismo
+* [Linhas equipotenciais de um dipolo elétrico](https://www.geogebra.org/m/faah28dy)
+* [Linhas de campo de um dipolo elétrico](https://www.geogebra.org/m/xrxxp4sv)
+* [Espira em um campo magnético](https://www.geogebra.org/m/ahdke7ge)
+
+### Ondulatória
+* [1.1 Onda Estacionária](https://www.geogebra.org/m/jnnmre9v)
+* [1.2 Pulso numa corda](https://www.geogebra.org/m/yqpjzahv)
+* [1.21 Superposição de pulsos](https://www.geogebra.org/m/sugmkzt3)
+* [1.3 Onda progressiva](https://www.geogebra.org/m/thfc8gyp)
+* [1.4 Ondas viajando em sentidos opostos](https://www.geogebra.org/m/pnxkmgzb)
+* [1.5 Ondas viajando no mesmo sentido](https://www.geogebra.org/m/tyrd3sxf)
+* [1.6 Superposição de ondas com frequências parecidas](https://www.geogebra.org/m/tdxb3jwn)
+
+### Mecânica
+* [Movimento Balístico](https://www.geogebra.org/m/h7eghcw3)
+* [Gráficos: Queda Livre com resistência do ar](https://www.geogebra.org/m/yde9de5v)
+* [Distribuição de velocidades de Maxwell](https://www.geogebra.org/m/pwyphnwd)
 ---
 
 ## 📸 Astrofotografia
