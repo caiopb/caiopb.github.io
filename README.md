@@ -35,6 +35,9 @@ Repositórios e materiais públicos voltados para a comunidade de física e alun
 * [1.7 - Ponto médio](https://www.geogebra.org/m/ppsjdku2)
 * [1.8 - Ângulo de dois vetores](https://www.geogebra.org/m/ajbwddfc)
 
+* [2.1 - Produto Escalar](https://www.geogebra.org/m/ugrjhmcj)
+* [2.2 - Produto Vetorial](https://www.geogebra.org/m/awtgmbbe)
+
 ### Eletromagnetismo
 * [Linhas equipotenciais de um dipolo elétrico](https://www.geogebra.org/m/faah28dy)
 * [Linhas de campo de um dipolo elétrico](https://www.geogebra.org/m/xrxxp4sv)
