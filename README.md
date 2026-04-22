@@ -24,6 +24,9 @@ Repositórios e materiais públicos voltados para a comunidade de física e alun
 
 ## Geogebra
 
+### Astronomia
+* [Coordenadas Equatoriais](https://www.geogebra.org/m/bbmppccc)
+
 ### Geometria Analítica
 
 * [1.1 - Igualdade de vetores](https://www.geogebra.org/m/cajqdnps)
