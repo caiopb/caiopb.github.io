@@ -25,8 +25,9 @@ Repositórios e materiais públicos voltados para a comunidade de física e alun
 ## Geogebra
 
 ### Astronomia
-* [Coordenadas Horizontais](https://www.geogebra.org/m/cr6gjumf)
-* [Coordenadas Equatoriais](https://www.geogebra.org/m/bbmppccc)
+* [1.1 - Esfera Celeste e Coordenadas Equatoriais](https://www.geogebra.org/m/bbmppccc)
+* [1.2 - Horizonte Local e Coordenadas Horizontais](https://www.geogebra.org/m/cr6gjumf)
+* [1.3 - Geometria das trajetórias sazonais](https://www.geogebra.org/m/shkdc4j9)
 
 ### Geometria Analítica
 
