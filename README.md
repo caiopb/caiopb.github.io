@@ -27,7 +27,11 @@ Repositórios e materiais públicos voltados para a comunidade de física e alun
 ### Astronomia
 * [1.1 - Esfera Celeste e Coordenadas Equatoriais](https://www.geogebra.org/m/bbmppccc)
 * [1.2 - Horizonte Local e Coordenadas Horizontais](https://www.geogebra.org/m/cr6gjumf)
-* [1.3 - Geometria das trajetórias sazonais](https://www.geogebra.org/m/shkdc4j9)
+* [1.3a - Geometria das trajetórias sazonais](https://www.geogebra.org/m/shkdc4j9)
+* [1.3b - Visão do espaço das mudanças sazonais](https://www.geogebra.org/m/pzvyccfb)
+* [1.4 - A Eclíptica e constelações zodiacais](https://www.geogebra.org/m/zwgqbkqk)
+* [1.5 - Velocidade angular sideral e solar](https://www.geogebra.org/m/ssbgsqtt)
+* [1.6 - O Sistema Terra-Lua em escala](https://www.geogebra.org/m/w6dumyme)
 
 ### Geometria Analítica
 
